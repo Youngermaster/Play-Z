@@ -1,0 +1,18 @@
+.cart {
+  position: relative;
+}
+
+#cart_menu_num {
+  position: absolute;
+  left: 60%;
+  bottom: 50%;
+  background: #f77062;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 2px;
+}
