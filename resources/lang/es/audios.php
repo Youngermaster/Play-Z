@@ -4,7 +4,7 @@ return [
 
     'audio' => 'Audio',
     'audios' => 'Audios',
-    'home' => 'Home',
+    'home' => 'Inicio',
     'find' => 'Find',
     'find_audio' => 'Find Audio',
     'upload' => 'Upload',
@@ -85,9 +85,6 @@ return [
     'latest_two_audios_home' => 'our latest 2 audios',
     'staff' => 'Staff',
     'language' => 'Idioma',
-    'meetings' => 'Community Meetings',
-    'place' => 'Place',
-    'google_login' => 'Login with Google',
 
     'phases' => [
         'phase' => 'Phase'
